@@ -12,7 +12,7 @@
 
 ###### **password:** test123
 
-# Microservices Deployment on AWS with Terraform and K3S:
+# Microservices Deployment on AWS with Terraform, K3S Kubernet Cluster, Traefik Ingress Controller and Keycloak OAuth2 Authorization Server:
 
 ## Step 01 - Setup terraform account on AWS:
 #### Skip to Step 02, if you already have working Terraform account with all permissions
